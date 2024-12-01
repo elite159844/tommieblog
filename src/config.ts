@@ -32,7 +32,7 @@ export const SITE = {
 	githubUrl: "https://github.com/one-aalam/astro-ink",
 	listDrafts: true,
 	image:
-		"https://github.com/elite159844/tommiesblogs/blob/main/mypfp.png",
+		"https://github.com/elite159844/tommiesblogs/blob/main/public/images/uploads/mypfp.png",
 	// YT video channel Id (used in media.astro)
 	ytChannelId: "",
 	// Optional, user/author settings (example)
