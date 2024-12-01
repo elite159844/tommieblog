@@ -4,6 +4,4 @@
 
 𝗠𝘆 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗦𝗲𝗿𝘃𝗲𝗿: https://discord.gg/fwH32wC7XJ
 
-## Blog Credits
-
-𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆: Tommie
+## If you have any questions, join my discord server
