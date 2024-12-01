@@ -2,4 +2,8 @@
 
 ### My File Hosting Website
 
-https://tommieonedrive.pages.dev/                
+https://tommieonedrive.pages.dev/       
+
+### My Discord Server
+
+https://discord.gg/fwH32wC7XJ
