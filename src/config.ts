@@ -29,10 +29,10 @@ export const SITE = {
 	title: "Astro - Ink",
 	description: "Written Blogs By Tommie",
 	url: "https://tommiesblogs.vercel.app",
-	githubUrl: "https://github.com/one-aalam/astro-ink",
+	githubUrl: "https://github.com/elite159844",
 	listDrafts: true,
 	image:
-		"https://github.com/elite159844/tommiesblogs/blob/main/public/images/uploads/tommie.png",
+		     "https://github.com/elite159844/tommiesblogs/blob/main/public/images/uploads/tommie.png",
 	// YT video channel Id (used in media.astro)
 	ytChannelId: "",
 	// Optional, user/author settings (example)
