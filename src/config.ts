@@ -32,7 +32,7 @@ export const SITE = {
 	githubUrl: "https://github.com/elite159844",
 	listDrafts: true,
 	image: 
-			"https://github.com/elite159844/tommiesblogs/blob/main/public/tommie.png",
+			"https://github.com/elite159844.png",
 		     
 	// YT video channel Id (used in media.astro)
 	ytChannelId: "",
@@ -42,7 +42,7 @@ export const SITE = {
 	// Author: Twitter handler
 	authorTwitter: "", // Example: FredKSchott
 	// Author: Image external source
-	authorImage: "https://github.com/elite159844/tommiesblogs/blob/main/public/tommie.png",
+	authorImage: "https://github.com/elite159844.png",
 	// Author: Bio
 	authorBio:
 		"Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro",
