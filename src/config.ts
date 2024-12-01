@@ -25,14 +25,14 @@ export const NAV_ITEMS: NavItems = {
 
 export const SITE = {
 	// Your site's detail?
-	name: "Ink",
+	name: "Tommie's Blog",
 	title: "Astro - Ink",
-	description: "Crisp, minimal, personal blog theme for Astro",
-	url: "https://astro-ink.vercel.app",
+	description: "Written Blogs By Tommie",
+	url: "https://tommiesblogs.vercel.app",
 	githubUrl: "https://github.com/one-aalam/astro-ink",
 	listDrafts: true,
 	image:
-		"https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png",
+		"https://github.com/elite159844/tommiesblogs/blob/main/mypfp.png",
 	// YT video channel Id (used in media.astro)
 	ytChannelId: "",
 	// Optional, user/author settings (example)
