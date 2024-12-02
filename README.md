@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./public/astro-ink-logo.png" height="140px" title="Astro Ink" />
+<img src="https://tommieblog.vercel.app/assets/gorillapfp.png" height="140px" title="Astro Ink" />
 </div>
 <br />
 <div align="center">Astro Ink is a minimal theme created to serve minimalistic markdown-based blog needs. It ships with almost all the basic Astro components that you might need while creating light-weight, performant, personal blogs, that focus on shipping less Javascript by default.</div>
@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-<img src="./public/astro-banner.png" alt="Astro Banner" />
+<img src="https://github.com/elite159844/elite159844/raw/main/myblogwebsite.png?raw=true" alt="Astro Banner" />
 
 It's hugely inspired by [Hugo](https://github.com/knadh/hugo-ink)'s Ink theme and strives to remain light, while providing the basis for a beautiful, minimal blog.
 
