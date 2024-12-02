@@ -41,7 +41,7 @@ export const SITE = {
 	authorImage: "https://github.com/elite159844.png",
 	// Author: Bio
 	authorBio:
-		"Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro",
+		"A 17 year old interested in computers and coding",
 };
 
 // Ink - Theme configuration
