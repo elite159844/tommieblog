@@ -22,7 +22,7 @@ export const NAV_ITEMS: NavItems = {
 export const SITE = {
 	// Your site's detail?
 	name: "Tommie's Blog",
-	title: "Astro - Ink",
+	title: "Tommie's Blog",
 	description: "Written Blogs By Tommie",
 	url: "https://tommieblog.vercel.app/",
 	githubUrl: "https://github.com/elite159844",
