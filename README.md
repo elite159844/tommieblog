@@ -17,7 +17,7 @@
 
 <img src="https://github.com/elite159844/elite159844/raw/main/myblogwebsite.png?raw=true" alt="Astro Banner" />
 
-## How to install this theme
+## How to Install this theme
 
 Alright, this theme is pretty easy to install. At first i would get errors while deploying to vercel but i figured a way to get it to work... Follow the guide i made below if you wanna install this theme stress free.
 
