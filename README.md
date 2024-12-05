@@ -17,6 +17,17 @@
 
 <img src="https://github.com/elite159844/elite159844/raw/main/myblogwebsite.png?raw=true" alt="Astro Banner" />
 
+## How to install this theme
+
+Alright, this theme is pretty easy to install. At first i would get errors while deploying to vercel but i figured a way to get it to work... Follow the guide i made below if you wanna install this theme stress free.
+
+1. Head over to https://github.com/one-aalam/astro-ink
+2. Now you wanna fork the repository, name it whatever you want
+   
+Head over to vercel and deploy your site, now your gonna get a error. Basically just go to the project settings and change your node version to 18 instead of 20. Now redeploy again and it should work. 
+
+> Before you start customizing the site, make sure that you go to "astro.config.mjs" and change "site: https://astro-ink.vercel.app'," to "site: (yourdomain)"
+
 It's hugely inspired by [Hugo](https://github.com/knadh/hugo-ink)'s Ink theme and strives to remain light, while providing the basis for a beautiful, minimal blog.
 
 ## Features
