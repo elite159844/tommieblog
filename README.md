@@ -17,19 +17,6 @@
 
 <img src="https://github.com/elite159844/elite159844/raw/main/myblogwebsite.png?raw=true" alt="Astro Banner" />
 
-## Stress Free Install Guide
-
-Alright, this theme is pretty easy to install. At first i would get errors while deploying to vercel but i figured a way to get it to work... Follow the guide i made below if you wanna install this theme stress free.
-
-1. Head over to https://github.com/one-aalam/astro-ink
-2. Now you wanna fork the repository, name it whatever you want
-   
-Head over to vercel and deploy your site, now your gonna get a error. Basically just go to the project settings and change your node version to 18 instead of 20. Now redeploy again and it should work. 
-
-> Before you start customizing the site, make sure that you go to "astro.config.mjs" and change "site: https://astro-ink.vercel.app'," to "site: (yourdomain)"
-
-If you have any questions or need help, you can email me at devilblade196@gmail.com
-
 It's hugely inspired by [Hugo](https://github.com/knadh/hugo-ink)'s Ink theme and strives to remain light, while providing the basis for a beautiful, minimal blog.
 
 ## Features
@@ -79,3 +66,16 @@ Head over to `aalam.in/blog` and know
 - [Putting interactivity where you absolutely cannot do without it in Astro](https://aalam.in/blog/astro-and-interactivity)
 - [Creating data-driven, dynamic pages and paginated results in Astro](https://aalam.in/blog/astro-and-dynamic-pages)
 - [Author your Astro site's content with Git-based CMSs](https://aalam.in/blog/astro-and-git-cms-netlify)
+
+## Stress Free Install Guide
+
+Alright, this theme is pretty easy to install. At first i would get errors while deploying to vercel but i figured a way to get it to work... Follow the guide i made below if you wanna install this theme stress free.
+
+1. Head over to https://github.com/one-aalam/astro-ink
+2. Now you wanna fork the repository, name it whatever you want
+   
+Head over to vercel and deploy your site, now your gonna get a error. Basically just go to the project settings and change your node version to 18 instead of 20. Now redeploy again and it should work. 
+
+> Before you start customizing the site, make sure that you go to "astro.config.mjs" and change "site: https://astro-ink.vercel.app'," to "site: (yourdomain)"
+
+If you have any questions or need help, you can email me at devilblade196@gmail.com
