@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-<img src="https://github.com/elite159844/elite159844/raw/main/myblogwebsite.png?raw=true" alt="Astro Banner" />
+<img src="https://github.com/elite159844/elite159844/raw/main/myblog.png?raw=true" alt="Astro Banner" />
 
 It's hugely inspired by [Hugo](https://github.com/knadh/hugo-ink)'s Ink theme and strives to remain light, while providing the basis for a beautiful, minimal blog.
 
