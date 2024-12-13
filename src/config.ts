@@ -26,7 +26,7 @@ export const SITE = {
 	description: "Written Blogs By Tommie",
 	url: "https://tommieblog.vercel.app/",
 	githubUrl: "https://github.com/elite159844",
-	listDrafts: false,
+	listDrafts: true,
 	image: 
 			"https://github.com/elite159844.png",
 		     
