@@ -34,7 +34,7 @@ export const SITE = {
 	ytChannelId: "",
 	// Optional, user/author settings (example)
 	// Author: name
-	author: "Tommie", // Example: Fred K. Schott
+	author: "", // Example: Fred K. Schott
 	// Author: Twitter handler
 	authorTwitter: "", // Example: FredKSchott
 	// Author: Image external source
